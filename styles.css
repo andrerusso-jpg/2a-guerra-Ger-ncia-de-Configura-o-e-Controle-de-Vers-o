@@ -1,4 +1,4 @@
-    /* Reset de estilos básicos */
+  /* Reset de estilos básicos */
     * {
         margin: 0;
         padding: 0;
@@ -80,4 +80,3 @@
         font-size: 0.9em;
         color: #777;
         margin-top: 40px;
-      }
